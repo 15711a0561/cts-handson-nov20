@@ -3,8 +3,7 @@ package com.org;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Sample {
-
+public class TestLists {
 
 	public static void main(String[] args) {
 		List<Integer> list = new ArrayList<Integer>();
